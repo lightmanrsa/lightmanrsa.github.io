@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beef Biltong &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/beef-biltong/feed/?simply_static_page=166" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jun 2020 02:03:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Do I need to use vinegar when making biltong?</title>
+		<link>./../../../do-i-need-to-use-vinegar-when-making-biltong/index.html</link>
+					<comments>./../../../do-i-need-to-use-vinegar-when-making-biltong/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2020 02:03:55 +0000</pubDate>
+				<category><![CDATA[food dessicators]]></category>
+		<category><![CDATA[Beef Biltong]]></category>
+		<category><![CDATA[delicious beef Jerky recipe]]></category>
+		<category><![CDATA[delicious biltong recipe]]></category>
+		<category><![CDATA[DHT22]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[make your own beef Jerky]]></category>
+		<category><![CDATA[make your own Biltong]]></category>
+		<category><![CDATA[make your own Jerky]]></category>
+		<category><![CDATA[vinegar for biltong]]></category>
+		<category><![CDATA[Voortrekkers]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=844</guid>
+
+					<description><![CDATA[Biltong can be made at home and now with IoT technology one no longer needs to have a vinegar residue on the end product.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/wp-1592099981977118815316403593240-1024x485.jpg" alt="" class="wp-image-843"/><figcaption>Hennie Coetzee&#8217;s biltong machine</figcaption></figure>
+
+
+
+<p>This is a question which comes up quite often when people are making biltong.</p>
+
+
+
+<p>The truth is it does give the biltong a &#8216;funny taste&#8217; and in my experience is quite unnecessary, provided you follow two critical steps.</p>
+
+
+
+<p>1) You need to leave the meat in the fridge in the biltong spices for about 48 hours so that a curing process takes place. The meat draws in the preserving salts and spices.</p>
+
+
+
+<p>2) This step is very important as mould can form on the biltong if you haven&#8217;t used vinegar in the curing process. It is imperative that you monitor the humidity within the biltong Machine for the first 18 hours, this biltong machine should have enough heat generated within it, in order to keep the internal humidity levels at 100%. This represents a situation where the air is saturated with moisture that is being drawn out of the meat . This process rapidly seals the outside of the meat thereby preventing any mould etc. I use the DHT22 sensor to monitor the internal humidity, within the biltong Machine. The fan/s effectively vent this moist air out of the box, which is continuously being drawn out of the meat by the heat source. </p>
+
+
+
+<p>I believe the vinegar was used prior to the invention of refrigeration, by the Voortrekkers in South Africa, in order to allow the curing of the meat to occur without any nasties coming into play. With the advent of a low temperature environment in the cooling compartment of the refrigerator, this acidifying process is no longer required for the curing. The heat source is thus a must to quickly seal the outside of the cured meat. I hope this will give you confidence to try out a new way of enjoying an old South African favorite &#8211; Biltong.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/received_23935246209456266307630502243409293-484x1024.jpeg" alt="" class="wp-image-842"/><figcaption>A friend of mine&#8217;s biltong machine. He uses an incandescent lamp (60 watts) as his heat source. The bulb was removed to show the fan. Credit: Hennie Coetzee</figcaption></figure>
+
+
+
+
+
+<p>The &#8216;secret sauce&#8217; controller is a controller that can switch the heat source every few seconds, giving better control in making your dried foods. It also allows all interactions via Bluetooth from your mobile phone and if you connect to your local Wifi will show progress on a webpage, how cool is that! It also uses RF to control a plug socket so no electrical connections required. This is the state-of-the-art. If you want to buy a plug and controller it costs $100. Leave a comment we will get your details for an order. You are really going to love it! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f34c.png" alt="🍌" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f969.png" alt="🥩" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f374.png" alt="🍴" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://ianboake.com/wp-content/uploads/2020/11/20201121_093845_02.mp4"></video><figcaption>Buy this Bluetooth, secret-sauce controller which controls a plug socket.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../do-i-need-to-use-vinegar-when-making-biltong/feed/index.html</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		<enclosure url="https://ianboake.com/wp-content/uploads/2020/11/20201121_093845_02.mp4" length="11236826" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Food Desiccator using Positive Thermal Coefficient heaters (revision 7)</title>
+		<link>./../../../food-desiccator/index.html</link>
+					<comments>./../../../food-desiccator/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 06:57:00 +0000</pubDate>
+				<category><![CDATA[food dessicators]]></category>
+		<category><![CDATA[Beef Biltong]]></category>
+		<category><![CDATA[Beef Jerky]]></category>
+		<category><![CDATA[delicious beef Jerky recipe]]></category>
+		<category><![CDATA[delicious biltong recipe]]></category>
+		<category><![CDATA[Dried Fruit]]></category>
+		<category><![CDATA[Greta Thunberg]]></category>
+		<category><![CDATA[make your own beef Jerky]]></category>
+		<category><![CDATA[make your own Biltong]]></category>
+		<category><![CDATA[make your own Jerky]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<guid isPermaLink="false">http://ianboake.com/?p=634</guid>
+
+					<description><![CDATA[28 December 2019 This is one of the best ways that one can start to make a difference to the planet, almost immediately!!! This is about focussing on living more sustainably. We have to eat, but we often buy much more than we can consume and throw away what begins to turn in our refrigerators. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>28 December 2019</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/s-l400-28207636180065312768..jpg" alt="" class="wp-image-636"/><figcaption>A delicacy called &#8220;Biltong&#8221; which makes use of different spices to &#8220;Jerky&#8221;</figcaption></figure>
+
+
+
+<p>This is one of the best ways that one can start to make a difference to the planet, almost immediately!!! This is about focussing on living more sustainably. We have to eat, but we often buy much more than we can consume and throw away what begins to turn in our refrigerators. This is nothing short of wasteful, we are all guilty of this. More importantly, these desiccated food sources are actually all very delicious, think of: dried fruit, beef jerky, beef biltong and dried tomato on pizza. My favourites are biltong and dried banana…</p>
+
+
+
+<p>The “<strong>heart</strong>” of the desiccator is the fan and associated PTC, “gentle”, self-regulating heater:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-105514_banggood3274177608317755661-1024x1012.jpg" alt="" class="wp-image-624"/></figure>
+
+
+
+<p>The side view which is the preferred position for resting on an old, upside down, plate saucer (preferably something ceramic) is shown below:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/20191228_1103378767400766683713045-1024x998.jpg" alt="" class="wp-image-625"/></figure>
+
+
+
+<p>The bottom view (showing the fan unit) is shown below, this fan must face a 50cm diameter &#8220;air-port&#8221;:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-105701_banggood5669973320148091337-1024x967.jpg" alt="" class="wp-image-626"/></figure>
+
+
+
+<h2 class="wp-block-heading">Parts list</h2>
+
+
+
+<p>The items to get from your local hardware wholesaler, are as follows:</p>
+
+
+
+<p>1) From Bunnings (AUS), Builder’s Warehouse (RSA), Home Depot (USA), etc. Get a good grade plastic container (relatively thick side-wall) that has a clip locking lid. This is important as the fan/heater creates positive pressure and needs to be sealed by these side clips. The dimensions are indicative and not crucial if you plastic container (box) is not exactly the same in size. Height – 0.5 m, Width – 0.5 m, Length – 1.02)</p>
+
+
+
+<p>2) Get a “<strong>chocolate block electrical connector</strong>”, 230-240V, 10 Amp connector from the electrical aisle. These look like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/shopping5092417068193326624.jpeg" alt="" class="wp-image-627"/><figcaption>&#8220;Chocolate block, electrical connector&#8217;</figcaption></figure>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" src="http://secureservercdn.net/50.62.174.113/v07.7bc.myftpupload.com/wp-content/uploads/2019/12/screenshot_20191231-140049_facebook3645846414189160850.jpg?time=1577702637" alt="" class="wp-image-641 size-full"/></figure><div class="wp-block-media-text__content">
+<p>https://www.facebook.com/DIYCraftsTV/videos/1066070670403506/</p>
+</div></div>
+
+
+
+<p>3) My “<strong>secret sauce</strong>” controller, ESP32 Controller, (optional) if you want Bluetooth control from your mobile phone and monitoring of the internal desiccator temperature and humidity. Send me an email request for such a unit from the contact page on www.ianboake.com. This is not essential and only a &#8216;nice to have&#8217;. It will set you back about $USD 55 excluding shipping.</p>
+
+
+
+<p>4) An old computer cord, preferably where somebody has stripped the insulation off the computer socket end, or ask the people at the Hardware store to make it look as in the picture below:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-084120_banggood611882412765664276-972x1024.jpg" alt="" class="wp-image-628"/><figcaption>Note different countries have different plugs and colour codes for live/active, neutral and the ground or earth conductor</figcaption></figure>
+
+
+
+<p>5) Shade cloth about 1-meter square will do, aluminium fly-screen is even better if you can get it:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/mono-tape-shade-sail-black-3-66x10m-195g-m2_00494813789701773927.jpg" alt="" class="wp-image-629"/></figure>
+
+
+
+<p>6) A glue-gun to glue the shade cloth over the “air ports”. It is also possible to use duct tape to hold the screens over the &#8220;air-ports&#8221;.</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/shopping-11591816426070309031..jpg" alt="" class="wp-image-630"/></figure>
+
+
+
+<p>7) Dowel rods cut to 550mm lengths by the hardware store, but at least 50mm longer than the width of the plastic box. eBay offers sets of 21mm diameter, dowel rods.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="http://34.82.9.48/wp-content/uploads/2019/12/s-l400-1361919615274796972..jpg" alt="" class="wp-image-631"/></figure>
+
+
+
+<p>8) Four self-tapping screws to attach the fan/heater over one of the ports. 14g or 1.6mm will do.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-150230_chrome1542968708548341199.jpg" alt="" class="wp-image-632"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-150335_chrome4468076895096207384.jpg" alt="" class="wp-image-633"/><figcaption>Conversion between different self-taper screws in different countries</figcaption></figure>
+
+
+
+<p>9) A 1mm drill to drill the “air ports” and pilot holes for the self-taper screws.</p>
+
+
+
+<p>10) A pack of hangers, actually paper-clips where you twist the ends to make an accentuated s-shape</p>
+
+
+
+<h2 class="wp-block-heading">Instructions</h2>
+
+
+
+<p>1) Drill about 150 holes from the inside out in about a 50 cm diameter grouping. Do this in four places with one such an “air port” in the lid of the plastic box<br />2) Ensure that one “air-port” is covered by the fan of the heater/fan. The best way to do this is to take a piece of paper and mark the flange holes thereon using a pen. Place the unit onto an old plate and using a screwdriver mark the top left hole of the flange against the box.<br />3) Use the template in 2),  mark the pilot holes for the heater/fan.<br />4) Make an “air-port” around these four holes but mark the key four anchoring holes with a marker<br />5) Cut the shade cloth large enough to cover the “air-ports”.<br />6) Using the glue-gun cover the “air-ports” with shade cloth by gluing the shade cloth to cover the 50 holes produced in 1)<br />7) Attach the heater/fan using the self-taper screws</p>
+
+
+
+<p>8) Make a 22mm hole to pass the red/black and green cables from the heater unit to outside the box</p>
+
+
+
+<p>9) Seal up the hole with the glue gun</p>
+
+
+
+<p>10) Connect red to red or brown, yellow to black or blue and green/yellow to green/yellow earth using the “chocolate connector block”</p>
+
+
+
+<p>11) Have an electrically qualified person check the connector and then wrap it in electrical insulation tape</p>
+
+
+
+<p>12) Measure from the top of the plastic box a line about 10cm from the rim on both sides, mark it with a line. At 50cm spacings from the side one side of the plastic box, mark an X. Drill 22mm holes on these Xs for both sides of the plastic box.</p>
+
+
+
+<p>13) Push the dowels into these holes until the protrusion are the same on both sides then glue the insides of the penetrations with the glue gun, this holds them in place.</p>
+
+
+
+<p>14) The dowels will allow you to attach meat and fruit etc. to the dowels hanging in the box</p>
+
+
+
+<p>15) Avoid hanging anything over the heater/fan, this will foul it over time making it less effective.</p>
+
+
+
+<p>16) Google “Crown Biltong spice” and buy a packet of this spice, follow the instructions thereon for venison, lamb and beef. Hang the meat on the dowels using paperclips.</p>
+
+
+
+<p>17) For fruit make a 20% mixture of lemon juice and water and dip these fruit slices therein before hanging up with paperclips.</p>
+
+
+
+<p>18) Hang meat or fruit and check daily by hand squeezing the food until it feels hard with a semi-soft centre or when the “secret sauce” controllers report 40% humidity in the box, it will be sealed.</p>
+
+
+
+<p>19) After 3-5 days depending on local climate, enjoy your sustainable, desiccated food!!</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/SmartSelect_20200608-113535_WordPress-1024x775.jpg" alt="" class="wp-image-803"/><figcaption>If you can find a basket that fits into the box it is much easier than dowels</figcaption></figure>
+
+
+
+<p>A version with two fans and heaters can be seen in the following link: </p>
+
+
+
+<p><a href="https://youtu.be/kOnGTktracE">https://youtu.be/kOnGTktracE</a></p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/SmartSelect_20200608-113633_WordPress-774x1024.jpg" alt="" class="wp-image-804"/><figcaption>Store in a brown paper packet and if you allow the centre to remain soft you can cut it with a serrated knife.</figcaption></figure>
+
+
+
+<p>It is good to protect the whole setup with voltage and current appropriate fuses. In my case the LittleFuse Inc units are rated for 230V and I use a 3 amp fuse:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/09/20200128_1456313472549358792415372-768x1024.jpg" alt="" class="wp-image-1080"/><figcaption>230V 5Amp Little Fuse Inc.</figcaption></figure>
+
+
+
+<p>I posted a YouTube video to talk you through the build here:</p>
+
+
+
+<p><a href="https://youtu.be/-GG6wJ9dHbs">Build video here</a></p>
+
+
+
+<p>Alternatively, The &#8216;secret sauce&#8217; controller is a controller that can switch the heat source every few seconds, giving better control in making your dried foods. It also allows all interactions via Bluetooth from your mobile phone and if you connect to your local Wifi will show progress on a webpage, how cool is that! It also uses RF to control a plug socket so no electrical connections required. This is the state-of-the-art. If you want to buy a plug and controller it costs $100. Leave a comment we will get your details for an order. You are really going to love it! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f969.png" alt="🥩" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../food-desiccator/feed/index.html</wfw:commentRss>
+			<slash:comments>532</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internet of Things &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/internet-of-things/feed/?simply_static_page=170" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jun 2020 02:03:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Do I need to use vinegar when making biltong?</title>
+		<link>./../../../do-i-need-to-use-vinegar-when-making-biltong/index.html</link>
+					<comments>./../../../do-i-need-to-use-vinegar-when-making-biltong/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2020 02:03:55 +0000</pubDate>
+				<category><![CDATA[food dessicators]]></category>
+		<category><![CDATA[Beef Biltong]]></category>
+		<category><![CDATA[delicious beef Jerky recipe]]></category>
+		<category><![CDATA[delicious biltong recipe]]></category>
+		<category><![CDATA[DHT22]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[make your own beef Jerky]]></category>
+		<category><![CDATA[make your own Biltong]]></category>
+		<category><![CDATA[make your own Jerky]]></category>
+		<category><![CDATA[vinegar for biltong]]></category>
+		<category><![CDATA[Voortrekkers]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=844</guid>
+
+					<description><![CDATA[Biltong can be made at home and now with IoT technology one no longer needs to have a vinegar residue on the end product.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/wp-1592099981977118815316403593240-1024x485.jpg" alt="" class="wp-image-843"/><figcaption>Hennie Coetzee&#8217;s biltong machine</figcaption></figure>
+
+
+
+<p>This is a question which comes up quite often when people are making biltong.</p>
+
+
+
+<p>The truth is it does give the biltong a &#8216;funny taste&#8217; and in my experience is quite unnecessary, provided you follow two critical steps.</p>
+
+
+
+<p>1) You need to leave the meat in the fridge in the biltong spices for about 48 hours so that a curing process takes place. The meat draws in the preserving salts and spices.</p>
+
+
+
+<p>2) This step is very important as mould can form on the biltong if you haven&#8217;t used vinegar in the curing process. It is imperative that you monitor the humidity within the biltong Machine for the first 18 hours, this biltong machine should have enough heat generated within it, in order to keep the internal humidity levels at 100%. This represents a situation where the air is saturated with moisture that is being drawn out of the meat . This process rapidly seals the outside of the meat thereby preventing any mould etc. I use the DHT22 sensor to monitor the internal humidity, within the biltong Machine. The fan/s effectively vent this moist air out of the box, which is continuously being drawn out of the meat by the heat source. </p>
+
+
+
+<p>I believe the vinegar was used prior to the invention of refrigeration, by the Voortrekkers in South Africa, in order to allow the curing of the meat to occur without any nasties coming into play. With the advent of a low temperature environment in the cooling compartment of the refrigerator, this acidifying process is no longer required for the curing. The heat source is thus a must to quickly seal the outside of the cured meat. I hope this will give you confidence to try out a new way of enjoying an old South African favorite &#8211; Biltong.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/received_23935246209456266307630502243409293-484x1024.jpeg" alt="" class="wp-image-842"/><figcaption>A friend of mine&#8217;s biltong machine. He uses an incandescent lamp (60 watts) as his heat source. The bulb was removed to show the fan. Credit: Hennie Coetzee</figcaption></figure>
+
+
+
+
+
+<p>The &#8216;secret sauce&#8217; controller is a controller that can switch the heat source every few seconds, giving better control in making your dried foods. It also allows all interactions via Bluetooth from your mobile phone and if you connect to your local Wifi will show progress on a webpage, how cool is that! It also uses RF to control a plug socket so no electrical connections required. This is the state-of-the-art. If you want to buy a plug and controller it costs $100. Leave a comment we will get your details for an order. You are really going to love it! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f34c.png" alt="🍌" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f969.png" alt="🥩" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f374.png" alt="🍴" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://ianboake.com/wp-content/uploads/2020/11/20201121_093845_02.mp4"></video><figcaption>Buy this Bluetooth, secret-sauce controller which controls a plug socket.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../do-i-need-to-use-vinegar-when-making-biltong/feed/index.html</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		<enclosure url="https://ianboake.com/wp-content/uploads/2020/11/20201121_093845_02.mp4" length="11236826" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

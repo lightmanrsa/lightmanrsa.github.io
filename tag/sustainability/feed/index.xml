@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sustainability &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/sustainability/feed/?simply_static_page=125" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 09 Aug 2020 05:18:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Waste not, want not!</title>
+		<link>./../../../waste-not-want-not/index.html</link>
+					<comments>./../../../waste-not-want-not/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2020 05:18:42 +0000</pubDate>
+				<category><![CDATA[Internet of Things (IoT)]]></category>
+		<category><![CDATA[cool hacks]]></category>
+		<category><![CDATA[hacking a CD-player]]></category>
+		<category><![CDATA[make your own DAB+ radio]]></category>
+		<category><![CDATA[reuse old mobile phones]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[United Nations Sustainability Goals (UNSG)]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=1032</guid>
+
+					<description><![CDATA[9 August 2020 I was so impressed recently when I found a mini hi-fi system that a neighbour was throwing out and came across the following video post that tells one how to trick a car&#8217;s cd-player into accepting an auxiliary input and thought that I could stream Spotify through this mini hi-fi system. (Note: [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>9 August 2020</p>
+
+
+
+<p>I was so impressed recently when I found a mini hi-fi system that a neighbour was throwing out and came across the following video post that tells one how to trick a car&#8217;s cd-player into accepting an auxiliary input and thought that I could stream Spotify through this mini hi-fi system. (<strong>Note:</strong> always switch off the power and disconnect the plug socket before attempting this).</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Aux Input CD Stereo Hack" width="500" height="281" src="https://www.youtube.com/embed/QT7BUSU364s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>There were however a few problems when  I tried this with my newly &#8220;acquired&#8221; hi-fi unit:</p>
+
+
+
+<ul><li>The CD player on this unit was clearly the reason it was thrown out in the first place, even though the radio still worked, it was older an Analog Radio, not the newer Digital Radio, which is abbreviated as DAB+. This older form of radio can be scratchy depending on reception etc.</li><li>The unit had a tape player which have long since become obsolete.</li></ul>
+
+
+
+<p>I thus set about finding the &#8220;service manual&#8221; on the internet by looking for the model number which is usually found on the back &#8220;nameplate&#8221; of the unit and then searching for that name and service manual on the internet.  You can see this nameplate in the first image on this post. You have got to love the internet and what is available on it!</p>
+
+
+
+<p>I then had to look for the CD signals on the circuit diagram for the left and right channels on the various connectors, on this hi-fi unit these were marked C/R-in, C/L-in and D-GND. I bought a good quality auxiliary cable and cut it in half. I exposed the red (right channel) the white (left channel) and the shield / signal ground (&#8220;earth&#8221;). I then soldered these three conductors from the auxiliary cable to the purple-coloured points (shown on the diagram below) to the nearest solder points on the printed circuit board (PCB) by tracing them from the connector numbered CNP303  using  a multimeter on the &#8220;buzzer&#8221; setting (continuity tester). The CD player had an issue so the sound that came from connecting to these connection points was way too feint. I then decided I&#8217;ll rather connect to the more generic signals which come from either the CD or the Cassette Player (abbreviated as &#8220;CASS&#8221; on the circuit diagram) or the Radio (abbreviated &#8220;RAD&#8221;). These are thus the yellow-coloured points on the circuit diagram named L-OUT and R-OUT, below:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200809-144824_adobe-acrobat8641244191261747303.-460x1024.jpg" alt="" class="wp-image-1036"/></figure>
+
+
+
+<p>As per the instructions in the Youtube video if you use the CD-player you have to &#8220;play&#8221; a blank CD in the CD player. When using the cassette player you just have to push the Play button and Viola, it works! High quality digital music using the amplifier and great speakers from a hif-fi that would end up on the landfill. I gave it a new lease on life! Sustainability at its best&#8230;.</p>
+
+
+
+<p>There was a bonus. Spotify allows one to have an old mobile phone connected to the same Wifi as your usual mobile phone and then allow you to direct that phone to play your music. I thus used my old mobile, connected to the same Wifi router as my current phone and then with the Auxiliary cable plugged into this old phone I am now able to stream great music to this old phone. Sorry but that was such a great revelation for me. I also now have a great use for old mobile phones, I can literally find an old radio/cassette player/CD player connect that via an auxiliary cable (as above)  to an old phone in every room in the house and with these connected to the same Wifi network. I thus have a museum of old technology serving a new purpose &#8211; bespoke music in every room with guests connecting to my Guest Wifi network, then able to stream their own choice of music in whichever room they find themselves. This is truly not wasting older technology, I am just repurposing it&#8230;..I love it, I hope you do too?!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200809_1338141866277688019809287-1024x768.jpg" alt="" class="wp-image-1031"/><figcaption>Old museum-piece: CD-player/Tape cassette player and Analog radio, repurposed to work with Spotify streaming and have any guest send their choice of music to this old Wifi-connected mobile phone</figcaption></figure>
+
+
+
+<p>This was one of the more gratifying projects for me, as I feel it improves people&#8217;s comfort levels using technology and simultaneously saves the planet at the same time, without costing a cent!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200809-144436_spotify2618363664555007469-546x1024.jpg" alt="" class="wp-image-1035"/><figcaption>My old Samsung mobile phone is called SM-G9201 and is the device in my study which can be connected via Spotify by anybody on my guest Wifi network or even by me using my current mobile phone</figcaption></figure>
+
+
+
+<p>Also, look for the iHeartRadio App in the relevant app store for the operating system on your phone and then you have great local Australia radio stations to listen to <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200814_1002385131413049129627898-768x1024.jpg" alt="" class="wp-image-1047"/><figcaption>iHeartRadio App</figcaption></figure>
+
+
+
+<p>I loved this project so much that I took an old car radio, the Sony CDX-S2210S and &#8220;hacked&#8221; the output CD signals so that I could use this in my pool box as an entertainment area, sound system for around the pool. Again I found an old mobile phone and installed Spotify whilst including this phone within my family group. It obviously is connected to my guest wi-fi network.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200816-175424_gallery3531727979224322032-485x1024.jpg" alt="" class="wp-image-1055"/><figcaption>Downloaded the Sony CDX-S2210S service manual and found these three points on the printed circuit board to solder my auxiliary cable to.</figcaption></figure>
+
+
+
+<p>A bit of a trick with this CD player is that it generates an error signal if you place a blank CD in the player. In this instance you actually have to use a playable music CD. The radio then attenuates the output from the actual CD player in favour of the hacked Aux. input signal. My wife had a coniption when the auxiliary cable disengaged out of the cellphone due to its cover messing with the seating of the connector and it played the CD rather than the Spotify signal. I may actually superglue the auxiliary cable into the mobile phone headphone port to prevent this from happening again <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61c.png" alt="😜" class="wp-smiley" style="height: 1em; max-height: 1em;" />.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200815_1646102519910540391690255-768x1024.jpg" alt="" class="wp-image-1056"/><figcaption>The auxillary cable soldered to the respective points on the PCB board (I again used the continuity tester to &#8220;buzz&#8221; the pins from the connector to the best solder points)</figcaption></figure>
+
+
+
+<p>Just being able to repair any old machine using Arduino controllers is a great way to save the planet and save heaps of money, just read how a business card machine was repaired using a Arduino Mega 2560&#8230;so cool:</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://hackaday.com/2020/09/10/arduino-takes-control-of-dead-business-card-cutter/" target="_blank">Figure machine with $200 of kit</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../waste-not-want-not/feed/index.html</wfw:commentRss>
+			<slash:comments>40</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Food Desiccator using Positive Thermal Coefficient heaters (revision 7)</title>
+		<link>./../../../food-desiccator/index.html</link>
+					<comments>./../../../food-desiccator/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 06:57:00 +0000</pubDate>
+				<category><![CDATA[food dessicators]]></category>
+		<category><![CDATA[Beef Biltong]]></category>
+		<category><![CDATA[Beef Jerky]]></category>
+		<category><![CDATA[delicious beef Jerky recipe]]></category>
+		<category><![CDATA[delicious biltong recipe]]></category>
+		<category><![CDATA[Dried Fruit]]></category>
+		<category><![CDATA[Greta Thunberg]]></category>
+		<category><![CDATA[make your own beef Jerky]]></category>
+		<category><![CDATA[make your own Biltong]]></category>
+		<category><![CDATA[make your own Jerky]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<guid isPermaLink="false">http://ianboake.com/?p=634</guid>
+
+					<description><![CDATA[28 December 2019 This is one of the best ways that one can start to make a difference to the planet, almost immediately!!! This is about focussing on living more sustainably. We have to eat, but we often buy much more than we can consume and throw away what begins to turn in our refrigerators. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>28 December 2019</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/s-l400-28207636180065312768..jpg" alt="" class="wp-image-636"/><figcaption>A delicacy called &#8220;Biltong&#8221; which makes use of different spices to &#8220;Jerky&#8221;</figcaption></figure>
+
+
+
+<p>This is one of the best ways that one can start to make a difference to the planet, almost immediately!!! This is about focussing on living more sustainably. We have to eat, but we often buy much more than we can consume and throw away what begins to turn in our refrigerators. This is nothing short of wasteful, we are all guilty of this. More importantly, these desiccated food sources are actually all very delicious, think of: dried fruit, beef jerky, beef biltong and dried tomato on pizza. My favourites are biltong and dried banana…</p>
+
+
+
+<p>The “<strong>heart</strong>” of the desiccator is the fan and associated PTC, “gentle”, self-regulating heater:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-105514_banggood3274177608317755661-1024x1012.jpg" alt="" class="wp-image-624"/></figure>
+
+
+
+<p>The side view which is the preferred position for resting on an old, upside down, plate saucer (preferably something ceramic) is shown below:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/20191228_1103378767400766683713045-1024x998.jpg" alt="" class="wp-image-625"/></figure>
+
+
+
+<p>The bottom view (showing the fan unit) is shown below, this fan must face a 50cm diameter &#8220;air-port&#8221;:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-105701_banggood5669973320148091337-1024x967.jpg" alt="" class="wp-image-626"/></figure>
+
+
+
+<h2 class="wp-block-heading">Parts list</h2>
+
+
+
+<p>The items to get from your local hardware wholesaler, are as follows:</p>
+
+
+
+<p>1) From Bunnings (AUS), Builder’s Warehouse (RSA), Home Depot (USA), etc. Get a good grade plastic container (relatively thick side-wall) that has a clip locking lid. This is important as the fan/heater creates positive pressure and needs to be sealed by these side clips. The dimensions are indicative and not crucial if you plastic container (box) is not exactly the same in size. Height – 0.5 m, Width – 0.5 m, Length – 1.02)</p>
+
+
+
+<p>2) Get a “<strong>chocolate block electrical connector</strong>”, 230-240V, 10 Amp connector from the electrical aisle. These look like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/shopping5092417068193326624.jpeg" alt="" class="wp-image-627"/><figcaption>&#8220;Chocolate block, electrical connector&#8217;</figcaption></figure>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" src="http://secureservercdn.net/50.62.174.113/v07.7bc.myftpupload.com/wp-content/uploads/2019/12/screenshot_20191231-140049_facebook3645846414189160850.jpg?time=1577702637" alt="" class="wp-image-641 size-full"/></figure><div class="wp-block-media-text__content">
+<p>https://www.facebook.com/DIYCraftsTV/videos/1066070670403506/</p>
+</div></div>
+
+
+
+<p>3) My “<strong>secret sauce</strong>” controller, ESP32 Controller, (optional) if you want Bluetooth control from your mobile phone and monitoring of the internal desiccator temperature and humidity. Send me an email request for such a unit from the contact page on www.ianboake.com. This is not essential and only a &#8216;nice to have&#8217;. It will set you back about $USD 55 excluding shipping.</p>
+
+
+
+<p>4) An old computer cord, preferably where somebody has stripped the insulation off the computer socket end, or ask the people at the Hardware store to make it look as in the picture below:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-084120_banggood611882412765664276-972x1024.jpg" alt="" class="wp-image-628"/><figcaption>Note different countries have different plugs and colour codes for live/active, neutral and the ground or earth conductor</figcaption></figure>
+
+
+
+<p>5) Shade cloth about 1-meter square will do, aluminium fly-screen is even better if you can get it:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/mono-tape-shade-sail-black-3-66x10m-195g-m2_00494813789701773927.jpg" alt="" class="wp-image-629"/></figure>
+
+
+
+<p>6) A glue-gun to glue the shade cloth over the “air ports”. It is also possible to use duct tape to hold the screens over the &#8220;air-ports&#8221;.</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/shopping-11591816426070309031..jpg" alt="" class="wp-image-630"/></figure>
+
+
+
+<p>7) Dowel rods cut to 550mm lengths by the hardware store, but at least 50mm longer than the width of the plastic box. eBay offers sets of 21mm diameter, dowel rods.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="http://34.82.9.48/wp-content/uploads/2019/12/s-l400-1361919615274796972..jpg" alt="" class="wp-image-631"/></figure>
+
+
+
+<p>8) Four self-tapping screws to attach the fan/heater over one of the ports. 14g or 1.6mm will do.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-150230_chrome1542968708548341199.jpg" alt="" class="wp-image-632"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2019/12/smartselect_20191228-150335_chrome4468076895096207384.jpg" alt="" class="wp-image-633"/><figcaption>Conversion between different self-taper screws in different countries</figcaption></figure>
+
+
+
+<p>9) A 1mm drill to drill the “air ports” and pilot holes for the self-taper screws.</p>
+
+
+
+<p>10) A pack of hangers, actually paper-clips where you twist the ends to make an accentuated s-shape</p>
+
+
+
+<h2 class="wp-block-heading">Instructions</h2>
+
+
+
+<p>1) Drill about 150 holes from the inside out in about a 50 cm diameter grouping. Do this in four places with one such an “air port” in the lid of the plastic box<br />2) Ensure that one “air-port” is covered by the fan of the heater/fan. The best way to do this is to take a piece of paper and mark the flange holes thereon using a pen. Place the unit onto an old plate and using a screwdriver mark the top left hole of the flange against the box.<br />3) Use the template in 2),  mark the pilot holes for the heater/fan.<br />4) Make an “air-port” around these four holes but mark the key four anchoring holes with a marker<br />5) Cut the shade cloth large enough to cover the “air-ports”.<br />6) Using the glue-gun cover the “air-ports” with shade cloth by gluing the shade cloth to cover the 50 holes produced in 1)<br />7) Attach the heater/fan using the self-taper screws</p>
+
+
+
+<p>8) Make a 22mm hole to pass the red/black and green cables from the heater unit to outside the box</p>
+
+
+
+<p>9) Seal up the hole with the glue gun</p>
+
+
+
+<p>10) Connect red to red or brown, yellow to black or blue and green/yellow to green/yellow earth using the “chocolate connector block”</p>
+
+
+
+<p>11) Have an electrically qualified person check the connector and then wrap it in electrical insulation tape</p>
+
+
+
+<p>12) Measure from the top of the plastic box a line about 10cm from the rim on both sides, mark it with a line. At 50cm spacings from the side one side of the plastic box, mark an X. Drill 22mm holes on these Xs for both sides of the plastic box.</p>
+
+
+
+<p>13) Push the dowels into these holes until the protrusion are the same on both sides then glue the insides of the penetrations with the glue gun, this holds them in place.</p>
+
+
+
+<p>14) The dowels will allow you to attach meat and fruit etc. to the dowels hanging in the box</p>
+
+
+
+<p>15) Avoid hanging anything over the heater/fan, this will foul it over time making it less effective.</p>
+
+
+
+<p>16) Google “Crown Biltong spice” and buy a packet of this spice, follow the instructions thereon for venison, lamb and beef. Hang the meat on the dowels using paperclips.</p>
+
+
+
+<p>17) For fruit make a 20% mixture of lemon juice and water and dip these fruit slices therein before hanging up with paperclips.</p>
+
+
+
+<p>18) Hang meat or fruit and check daily by hand squeezing the food until it feels hard with a semi-soft centre or when the “secret sauce” controllers report 40% humidity in the box, it will be sealed.</p>
+
+
+
+<p>19) After 3-5 days depending on local climate, enjoy your sustainable, desiccated food!!</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/SmartSelect_20200608-113535_WordPress-1024x775.jpg" alt="" class="wp-image-803"/><figcaption>If you can find a basket that fits into the box it is much easier than dowels</figcaption></figure>
+
+
+
+<p>A version with two fans and heaters can be seen in the following link: </p>
+
+
+
+<p><a href="https://youtu.be/kOnGTktracE">https://youtu.be/kOnGTktracE</a></p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/SmartSelect_20200608-113633_WordPress-774x1024.jpg" alt="" class="wp-image-804"/><figcaption>Store in a brown paper packet and if you allow the centre to remain soft you can cut it with a serrated knife.</figcaption></figure>
+
+
+
+<p>It is good to protect the whole setup with voltage and current appropriate fuses. In my case the LittleFuse Inc units are rated for 230V and I use a 3 amp fuse:</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/09/20200128_1456313472549358792415372-768x1024.jpg" alt="" class="wp-image-1080"/><figcaption>230V 5Amp Little Fuse Inc.</figcaption></figure>
+
+
+
+<p>I posted a YouTube video to talk you through the build here:</p>
+
+
+
+<p><a href="https://youtu.be/-GG6wJ9dHbs">Build video here</a></p>
+
+
+
+<p>Alternatively, The &#8216;secret sauce&#8217; controller is a controller that can switch the heat source every few seconds, giving better control in making your dried foods. It also allows all interactions via Bluetooth from your mobile phone and if you connect to your local Wifi will show progress on a webpage, how cool is that! It also uses RF to control a plug socket so no electrical connections required. This is the state-of-the-art. If you want to buy a plug and controller it costs $100. Leave a comment we will get your details for an order. You are really going to love it! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f969.png" alt="🥩" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31f.png" alt="🌟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../food-desiccator/feed/index.html</wfw:commentRss>
+			<slash:comments>532</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

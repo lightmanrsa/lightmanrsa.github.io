@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3DImmortal &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/3dimmortal/feed/?simply_static_page=191" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jun 2018 09:00:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>3D Immortal &#8211; Human bust scan and 3D printing</title>
+		<link>./../../../hello-world-2-2/index.html</link>
+					<comments>./../../../hello-world-2-2/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 03 Jun 2018 09:00:56 +0000</pubDate>
+				<category><![CDATA[Internet of Things (IoT)]]></category>
+		<category><![CDATA[3D face scanning]]></category>
+		<category><![CDATA[3D printed human bust]]></category>
+		<category><![CDATA[3D printed human face]]></category>
+		<category><![CDATA[3DImmortal]]></category>
+		<category><![CDATA[point cloud of faces]]></category>
+		<category><![CDATA[time of flight scanning]]></category>
+		<category><![CDATA[TOF scanning]]></category>
+		<guid isPermaLink="false">http://ianboake.com/?p=1</guid>
+
+					<description><![CDATA[3 June 2018 (updated 12 July 2020) This product uses an Arduino Uno (IoT device) to control the movement of the time-of-flight ToF &#160;sensor. It also gives voice instructions to the user to toggle various buttons, instructs them to look directly at the ToF sensor and then press a push-button when the scanning is completed. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>3 June 2018 (updated 12 July 2020)</p>
+
+
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-911 size-medium" title="3D printed bust (of myself)" src="https://ianboake.com/wp-content/uploads/2018/06/20200712_100736-300x225.jpg" alt="" width="300" height="225" /></p>
+<p>This product uses an <em>Arduino Uno (IoT device)</em> to control the movement of the <em>time-of-flight</em> <a href="https://www.terabee.com/time-of-flight-principle/"><span style="color: #0000ff;">ToF</span> &nbsp;</a>sensor. It also gives voice instructions to the user to toggle various buttons, instructs them to look directly at the ToF sensor and then press a push-button when the scanning is completed.</p>
+<p>The completed 3D-printed bust using, this <em>Ianboake.com IoT</em> product, is shown. It shows the bust printed in black<span style="color: #0000ff;">&nbsp;<a style="color: #0000ff;" href="https://www.digitaltrends.com/cool-tech/abs-vs-pla-3d-printing-materials-comparison/">PLA</a></span>, albeit with the support material not removed, as yet, under my chin and it was not printed on a very good 3D printer.</p>
+<p>If you want me to 3D-scan a similar bust of you, these will cost $50 each, so please email me. I do however suggest that you get it <span style="color: #0000ff;">professionally 3D-printed</span>, as the results will be substantially better than the example that you see here.</p>
+<p>Gallery of images during the development stages:</p>
+<figure id="attachment_427" aria-describedby="caption-attachment-427" style="width: 2268px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-427" src="http://34.82.9.48/wp-content/uploads/2018/06/20180217_095612-e1528595939541.jpg" alt="" width="2268" height="4032" /><figcaption id="caption-attachment-427" class="wp-caption-text">3D Immortal in production.</figcaption></figure>
+<figure id="attachment_426" aria-describedby="caption-attachment-426" style="width: 2268px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-426" src="http://34.82.9.48/wp-content/uploads/2018/06/20180217_095043-e1528596007147.jpg" alt="" width="2268" height="4032" /><figcaption id="caption-attachment-426" class="wp-caption-text">Toggle switches and push-button used to control the ToF sensor, after being wired up.</figcaption></figure>
+<figure id="attachment_437" aria-describedby="caption-attachment-437" style="width: 1960px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="size-full wp-image-437" src="http://34.82.9.48/wp-content/uploads/2018/06/20180610_130128-e1528600115194.jpg" alt="" width="1960" height="4032" /><figcaption id="caption-attachment-437" class="wp-caption-text">The final 3D Immortal product.</figcaption></figure>
+<hr />
+<hr />
+
+
+<p>Nicely  3D printed power line lattice towers (I did a model for work, demonstrating the principle of dynamic line ratings for power transmission lines for Ampeak2018 in Hobart, Tasmania)</p>
+
+
+
+<figure class="wp-block-image size-large is-style-rounded"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/07/20200712_115808-637x1024.jpg" alt="" class="wp-image-918"/></figure>
+
+
+
+<p>When you have a great idea it is only a matter of time until that idea is copied and then monetized. I call this the &#8220;thousand monkey principle&#8221;. Up to a thousand people are given a similiar idea at the same time. It is then a race to the finish for whom can exploit the idea for commercial gain in the quickest way. In this instance, I concieved this idea, without any outside influence, in 2014 and then developed the above working prototype. I tried to get investors and partners but didn&#8217;t have the right relationships and connections to commercialize the idea. The developers of the product below came after me and have achieved that success. In Aus we say &#8220;Good on them!&#8221;. One advantage of mine is that it can scan a human bust, which the one below isn&#8217;t able to do:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/07/20200725_1246476869892348618937133-1024x768.jpg" alt="" class="wp-image-998"/><figcaption>MFStudio software-based, for 18 cm high by 25 cm wide items &#8211; 3D scanner, released to market in July 2020 (to my knowledge)</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hello-world-2-2/feed/index.html</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

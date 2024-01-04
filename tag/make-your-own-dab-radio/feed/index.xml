@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>make your own DAB+ radio &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/make-your-own-dab-radio/feed/?simply_static_page=123" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 09 Aug 2020 05:18:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Waste not, want not!</title>
+		<link>./../../../waste-not-want-not/index.html</link>
+					<comments>./../../../waste-not-want-not/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2020 05:18:42 +0000</pubDate>
+				<category><![CDATA[Internet of Things (IoT)]]></category>
+		<category><![CDATA[cool hacks]]></category>
+		<category><![CDATA[hacking a CD-player]]></category>
+		<category><![CDATA[make your own DAB+ radio]]></category>
+		<category><![CDATA[reuse old mobile phones]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[United Nations Sustainability Goals (UNSG)]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=1032</guid>
+
+					<description><![CDATA[9 August 2020 I was so impressed recently when I found a mini hi-fi system that a neighbour was throwing out and came across the following video post that tells one how to trick a car&#8217;s cd-player into accepting an auxiliary input and thought that I could stream Spotify through this mini hi-fi system. (Note: [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>9 August 2020</p>
+
+
+
+<p>I was so impressed recently when I found a mini hi-fi system that a neighbour was throwing out and came across the following video post that tells one how to trick a car&#8217;s cd-player into accepting an auxiliary input and thought that I could stream Spotify through this mini hi-fi system. (<strong>Note:</strong> always switch off the power and disconnect the plug socket before attempting this).</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Aux Input CD Stereo Hack" width="500" height="281" src="https://www.youtube.com/embed/QT7BUSU364s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>There were however a few problems when  I tried this with my newly &#8220;acquired&#8221; hi-fi unit:</p>
+
+
+
+<ul><li>The CD player on this unit was clearly the reason it was thrown out in the first place, even though the radio still worked, it was older an Analog Radio, not the newer Digital Radio, which is abbreviated as DAB+. This older form of radio can be scratchy depending on reception etc.</li><li>The unit had a tape player which have long since become obsolete.</li></ul>
+
+
+
+<p>I thus set about finding the &#8220;service manual&#8221; on the internet by looking for the model number which is usually found on the back &#8220;nameplate&#8221; of the unit and then searching for that name and service manual on the internet.  You can see this nameplate in the first image on this post. You have got to love the internet and what is available on it!</p>
+
+
+
+<p>I then had to look for the CD signals on the circuit diagram for the left and right channels on the various connectors, on this hi-fi unit these were marked C/R-in, C/L-in and D-GND. I bought a good quality auxiliary cable and cut it in half. I exposed the red (right channel) the white (left channel) and the shield / signal ground (&#8220;earth&#8221;). I then soldered these three conductors from the auxiliary cable to the purple-coloured points (shown on the diagram below) to the nearest solder points on the printed circuit board (PCB) by tracing them from the connector numbered CNP303  using  a multimeter on the &#8220;buzzer&#8221; setting (continuity tester). The CD player had an issue so the sound that came from connecting to these connection points was way too feint. I then decided I&#8217;ll rather connect to the more generic signals which come from either the CD or the Cassette Player (abbreviated as &#8220;CASS&#8221; on the circuit diagram) or the Radio (abbreviated &#8220;RAD&#8221;). These are thus the yellow-coloured points on the circuit diagram named L-OUT and R-OUT, below:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200809-144824_adobe-acrobat8641244191261747303.-460x1024.jpg" alt="" class="wp-image-1036"/></figure>
+
+
+
+<p>As per the instructions in the Youtube video if you use the CD-player you have to &#8220;play&#8221; a blank CD in the CD player. When using the cassette player you just have to push the Play button and Viola, it works! High quality digital music using the amplifier and great speakers from a hif-fi that would end up on the landfill. I gave it a new lease on life! Sustainability at its best&#8230;.</p>
+
+
+
+<p>There was a bonus. Spotify allows one to have an old mobile phone connected to the same Wifi as your usual mobile phone and then allow you to direct that phone to play your music. I thus used my old mobile, connected to the same Wifi router as my current phone and then with the Auxiliary cable plugged into this old phone I am now able to stream great music to this old phone. Sorry but that was such a great revelation for me. I also now have a great use for old mobile phones, I can literally find an old radio/cassette player/CD player connect that via an auxiliary cable (as above)  to an old phone in every room in the house and with these connected to the same Wifi network. I thus have a museum of old technology serving a new purpose &#8211; bespoke music in every room with guests connecting to my Guest Wifi network, then able to stream their own choice of music in whichever room they find themselves. This is truly not wasting older technology, I am just repurposing it&#8230;..I love it, I hope you do too?!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200809_1338141866277688019809287-1024x768.jpg" alt="" class="wp-image-1031"/><figcaption>Old museum-piece: CD-player/Tape cassette player and Analog radio, repurposed to work with Spotify streaming and have any guest send their choice of music to this old Wifi-connected mobile phone</figcaption></figure>
+
+
+
+<p>This was one of the more gratifying projects for me, as I feel it improves people&#8217;s comfort levels using technology and simultaneously saves the planet at the same time, without costing a cent!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200809-144436_spotify2618363664555007469-546x1024.jpg" alt="" class="wp-image-1035"/><figcaption>My old Samsung mobile phone is called SM-G9201 and is the device in my study which can be connected via Spotify by anybody on my guest Wifi network or even by me using my current mobile phone</figcaption></figure>
+
+
+
+<p>Also, look for the iHeartRadio App in the relevant app store for the operating system on your phone and then you have great local Australia radio stations to listen to <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200814_1002385131413049129627898-768x1024.jpg" alt="" class="wp-image-1047"/><figcaption>iHeartRadio App</figcaption></figure>
+
+
+
+<p>I loved this project so much that I took an old car radio, the Sony CDX-S2210S and &#8220;hacked&#8221; the output CD signals so that I could use this in my pool box as an entertainment area, sound system for around the pool. Again I found an old mobile phone and installed Spotify whilst including this phone within my family group. It obviously is connected to my guest wi-fi network.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/screenshot_20200816-175424_gallery3531727979224322032-485x1024.jpg" alt="" class="wp-image-1055"/><figcaption>Downloaded the Sony CDX-S2210S service manual and found these three points on the printed circuit board to solder my auxiliary cable to.</figcaption></figure>
+
+
+
+<p>A bit of a trick with this CD player is that it generates an error signal if you place a blank CD in the player. In this instance you actually have to use a playable music CD. The radio then attenuates the output from the actual CD player in favour of the hacked Aux. input signal. My wife had a coniption when the auxiliary cable disengaged out of the cellphone due to its cover messing with the seating of the connector and it played the CD rather than the Spotify signal. I may actually superglue the auxiliary cable into the mobile phone headphone port to prevent this from happening again <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61c.png" alt="😜" class="wp-smiley" style="height: 1em; max-height: 1em;" />.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/20200815_1646102519910540391690255-768x1024.jpg" alt="" class="wp-image-1056"/><figcaption>The auxillary cable soldered to the respective points on the PCB board (I again used the continuity tester to &#8220;buzz&#8221; the pins from the connector to the best solder points)</figcaption></figure>
+
+
+
+<p>Just being able to repair any old machine using Arduino controllers is a great way to save the planet and save heaps of money, just read how a business card machine was repaired using a Arduino Mega 2560&#8230;so cool:</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://hackaday.com/2020/09/10/arduino-takes-control-of-dead-business-card-cutter/" target="_blank">Figure machine with $200 of kit</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../waste-not-want-not/feed/index.html</wfw:commentRss>
+			<slash:comments>40</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

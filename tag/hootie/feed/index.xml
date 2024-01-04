@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hootie &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/hootie/feed/?simply_static_page=186" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jun 2018 10:22:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Hootie the animatronic owl</title>
+		<link>./../../../hootie-the-animatronic-owl/index.html</link>
+					<comments>./../../../hootie-the-animatronic-owl/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 03 Jun 2018 10:22:49 +0000</pubDate>
+				<category><![CDATA[Internet of Things (IoT)]]></category>
+		<category><![CDATA[Animatronic owl]]></category>
+		<category><![CDATA[Hootie]]></category>
+		<guid isPermaLink="false">http://ianboake.com/?p=323</guid>
+
+					<description><![CDATA[3 June 2018 and updated 27 June 2020 Conceived as a scarecrow, albeit in owl and not human form,&#160;Hootie changes randomly between pre-recorded, real owl calls, flapping its wing tips and turning its head which holds a 10mW laser beam. Birds hate the laser beam. Watch the video, which shows birds (actually flying rats) offered [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>3 June 2018 and updated 27 June 2020</p>
+
+
+<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-323-1" width="640" height="352" preload="metadata" controls="controls"><source type="video/mp4" src="http://34.82.9.48/wp-content/uploads/2018/06/VID-20170923-WA0007.mp4?_=1" /><a href="http://34.82.9.48/wp-content/uploads/2018/06/VID-20170923-WA0007.mp4">http://34.82.9.48/wp-content/uploads/2018/06/VID-20170923-WA0007.mp4</a></video></div>
+<p>Conceived as a<span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://en.wikipedia.org/wiki/Scarecrow">scarecrow</a></span>, albeit in owl and not human form,&nbsp;<em>Hootie</em> changes randomly between pre-recorded, real<span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://www.youtube.com/watch?v=ezaBqCf0hv0">owl calls</a></span>, flapping its wing tips and turning its head which holds a<span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://www.jaycar.com.au/10mw-laser-diode/p/ZD1955">10mW laser</a> </span>beam. Birds hate the laser beam. Watch the video, which shows birds (actually <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=UsHSO80W1Y4">flying rats</a></span>) offered yummy food and yet even the most brazen of them scatters when the head turns and they are exposed to his imposing laser beam. Its main use is to keep other birds from defecating on garden furniture (what my wife originally wanted it for) around homes or more significantly, preventing them from pooping on PV solar panels thereby <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.solarpoweraustralia.com.au/why-we-use-unisolar">shading</a></span>&nbsp;them from the sun and reducing the energy that they produce. I keep seeing other applications like keeping seagulls off of boats.</p>
+<figure id="attachment_439" aria-describedby="caption-attachment-439" style="width: 4032px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="size-full wp-image-439" src="http://34.82.9.48/wp-content/uploads/2018/06/20180610_141312.jpg" alt="" width="4032" height="1960" /><figcaption id="caption-attachment-439" class="wp-caption-text">Boat owners could benefit from owning a Hootie to keep seagulls off of their canvas biminis.</figcaption></figure>
+<hr />
+
+
+<p>I had a glitch with Hootie because I didn&#8217;t keep up with technology in power converters. I used the 7805 voltage regulator and yet the cost of buck converters have dropped in price, a far superior way to derive the 5V from the 12V is to use the LM2596S buck converter. The 7805 degraded over time until it was struggling to produce the required current to charge the battery of the powered speaker and supply the Bluno controller  with Bluetooth. I rewired the system and tested Hootie from the phone APP as follows:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/20200627_1649365330961189957618617-scaled.jpg" alt="" class="wp-image-885"/><figcaption>Rewiring with bigger wires</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/smartselect_20200628-172316_blunobasicdemo2432802162326896895-539x1024.jpg" alt="" class="wp-image-886"/><figcaption>The APP used to test the code running on Hootie via bluetooth</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/06/smartselect_20200628-192301_gallery6903528598516042597-1024x927.jpg" alt="" class="wp-image-889"/><figcaption>The updated LM2569S</figcaption></figure>
+
+
+
+<p>The technology from these folks was developed long after  my first incarnation of Hootie, perhaps that got their idea from me. I like to think so <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f601.png" alt="😁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Good on them for commercializing what I discovered by trail-and-error:</p>
+
+
+
+<p><blockquote class="wp-embedded-content" data-secret="jsbaw6Jfvi"><a href="https://birdcontrolgroup.com/automated-laser-bird-repellent/">AVIX Autonomic the automated laser bird repellent</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;AVIX Autonomic the automated laser bird repellent&#8221; &#8212; Bird Control Group" src="https://birdcontrolgroup.com/automated-laser-bird-repellent/embed/#?secret=r51TCaB5eV#?secret=jsbaw6Jfvi" data-secret="jsbaw6Jfvi" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hootie-the-animatronic-owl/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		<enclosure url="http://34.82.9.48/wp-content/uploads/2018/06/VID-20170923-WA0007.mp4" length="16237336" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

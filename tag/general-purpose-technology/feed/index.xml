@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>general purpose technology &#8211; ianboake</title>
+	<atom:link href="http://localhost/tag/general-purpose-technology/feed/?simply_static_page=178" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Jul 2020 04:12:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>The Charter</title>
+		<link>./../../../the-charter/index.html</link>
+					<comments>./../../../the-charter/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2020 04:12:17 +0000</pubDate>
+				<category><![CDATA[The Workbench Critic]]></category>
+		<category><![CDATA[3-in-1 robotic floor cleaners scam]]></category>
+		<category><![CDATA[catching scammers]]></category>
+		<category><![CDATA[general purpose technology]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[The Workshop Critic's Charter]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=1004</guid>
+
+					<description><![CDATA[This institutes charter is about providing a service to the general public around electronic product claims and whether these are distorting the truth or not. We simply buy goods, test them and then express our opinions (based on our experience) of whether they are either worse then their claims, match their stated claims or exceed [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This institutes charter is about providing a service to the general public around electronic product claims and whether these are distorting the truth or not.
+
+We simply buy goods, test them and then express our opinions (based on our experience) of whether they are either worse then their claims, match their stated claims or exceed these.
+
+These reviews provides a level of protection to the consumer.
+
+We reserve the right to only review technologies that are of interest to us as we have a limited membership and thus limited resources to review products. We are however orientated towards rooting our unethical electronic product &#8216;dropshippers&#8217;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../the-charter/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Not all robots are equal</title>
+		<link>./../../../not-all-robots-are-equal/index.html</link>
+					<comments>./../../../not-all-robots-are-equal/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 19 Jul 2020 07:07:34 +0000</pubDate>
+				<category><![CDATA[Internet of Things (IoT)]]></category>
+		<category><![CDATA[drone flight controllers]]></category>
+		<category><![CDATA[general purpose technology]]></category>
+		<category><![CDATA[keithlily]]></category>
+		<category><![CDATA[scammers]]></category>
+		<guid isPermaLink="false">http://www.ianboake.com/?p=862</guid>
+
+					<description><![CDATA[20 June 2020 You definitely pay for what you get with automation. I bought a 3-in-1 mop/vacuum/broom which was supposed to be all of that and have LIDAR and be able to self-dock and recharge. Well the fellas at: https://keithlily.com/ These folks are in the business of scamming people and caught me out. You will [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>20 June 2020</p>
+
+
+
+<p>You definitely pay for what you get with automation. I bought a 3-in-1 mop/vacuum/broom which was supposed to be all of that and have <em>LIDAR </em>and be able to self-dock and recharge. Well the fellas at:</p>
+
+
+
+<p><a href="https://keithlily.com/">https://keithlily.com/</a></p>
+
+
+
+<p> These folks are in the business of scamming people and caught me out. You will see the video on their site which advertises their product as having all these features and yet it has Velcro tags on the bottom to which very thin soft cloths are attached and these are then dragged across the floor. It came with about 30 of these replacement cloths. It does have a piezoelectric sensor in its &#8220;nose&#8221; that detects it bumping into something and then has a randomising algorithm which causes it to change direction, quite successfully. This algorithm and owing to its small dimensions, allows it to get-in under tables and chairs and cabinets and attracts &#8220;dust bunnies&#8221; to that cloth. A human would need to get down on all fours with a conventional vacuum machine and a fine nozzle to reach those places.</p>
+
+
+
+<p>The concept is worth about $AUD 5-$10 and I would pay that for it, provided it didn&#8217;t get it self struck on anything that doesn&#8217;t activate the sensor. That would be things less than, 5mm in height. It even gets itself caught out in grouting grooves on tiles when there is a lot of water on the bathroom floor. The fellows at keithlily (whom I later discovered our out of Azerbaijan, have a great marketing and delivery businesses model but just aren&#8217;t honest with their product). They will no doubt, not be a sustainable organization. They will constantly have to change their cover to keep duping people like me by over promising whilst also under delivering. </p>
+
+
+
+<p>It did however get me thinking about what is now know as general purpose technology (GPT) and the specific version of this that is robotics. ABB have incredible robots that can do amazing things in a production line, even allowing for full customisation of each product manufactured. Boston Dynamics have created robots, with a level of realism, that defies what many thought possible just a few years ago. There are also amazing autonomous vehicles like the various Tesla models and the list goes on. On an affordability scale though, only the flight controller is at a scale of sophistication and cost that can be considered GPT, that is the flight controllers in drones. In pondering why that is, I realised that the more expensive automatic vacuum machines are only slightly better than my $USD 29.95 excluding shipping, light-touch, kiddies toy &#8220;robotic&#8221; broom. We had one from Roomba back in 2012 costing $AUD 350 and it kept getting itself stuck. I have no doubt that these have improved substantially since then, but still  think that the performance versus price is still not compelling. This design needs a rethink. The flight controllers in drones are however GPT and have the right price versus performance proposition as I explain in the video below:</p>
+
+
+
+<p><a href="https://youtu.be/MbkabGjl3a0"></a><a href="https://youtu.be/MbkabGjl3a0">YouTube Video</a></p>
+
+
+
+<p>The link to the scammers site: </p>
+
+
+
+<p><a href="https://keithlily.com/">https://keithlily.com/</a></p>
+
+
+
+<p>If you like my efforts, either buy one of the affiliate product kits or buy me a coffee, it keeps me going!</p>
+
+
+
+<p><a href="Https://ko-fi.com/ianboake">https://ko-fi.com/ianboake</a></p>
+
+
+
+<p>So this got me thinking that with me knowledge and experience I could evaluate technologies (ostensibly items that aren&#8217;t branded and are sold in online states). This is thus a public service to help protect scammers. I call this service: &#8220;The workbench critic&#8221;. I will start with these 3-in-1 robotic cleaners.</p>
+
+
+
+<p>So along this theme I came across this post and thought it very humourous:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://ianboake.com/wp-content/uploads/2020/08/fb_img_15974451142022277814241284745735.jpg" alt="" class="wp-image-1049"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../not-all-robots-are-equal/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
